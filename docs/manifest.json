@@ -5,35 +5,26 @@
   "files": [
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "source_relative_path": "download.md",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "0A8WWiR2r6a3qN5e1R5thg=="
+          "relative_path": "download.html",
+          "hash": "Mc3/Ol3m7yo/eVKVgv6oGw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "lFhRlsgsf8i+DnHZgWTDJQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "AQ+ZKF3WZij6n0SjIZuxsQ=="
+          "hash": "Jt54Of0xeVhvys2KFY5SoA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +36,31 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "GGT6qHCfWBQp6OlRHmxEgQ=="
+          "hash": "GDD5+8+yi/74tIXnNMTYKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user/quickstart.md",
+      "output": {
+        ".html": {
+          "relative_path": "user/quickstart.html",
+          "hash": "/WHElz1oVk19nZmtq17fsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "user/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "user/toc.html",
+          "hash": "s2PcylzA+hNYIr5utyNO1Q=="
         }
       },
       "is_incremental": false,
@@ -66,7 +81,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
